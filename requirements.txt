@@ -1,0 +1,8 @@
+numpy
+pandas
+keras
+PIL
+glob
+matplotlib
+seaborn
+scikit-image
